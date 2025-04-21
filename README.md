@@ -1,2 +1,16 @@
 # references-glyphosate-sensor
 References for the IEEE paper "Laser-Induced Graphene Sensors for Glyphosate Detection with IoT Integration"
+[1] L. M. Bombardi, Geografia do uso de agroto ́xicos no Brasil e conexo ̃es com a Unia ̃o Europeia. Sao Paulo, 2017.
+[2] S.Singh,V.Kumar,S.Datta,A.B.Wani,D.S.Dhanjal,R.Romero, and J. Singh, “Glyphosate uptake, translocation, resistance emer- gence in crops, analytical monitoring, toxicity and degradation: a review,” Environmental chemistry letters, vol. 18, no. 3, pp. 663– 702, 2020.
+[3] R. Singh, A. Shukla, G. Kaur, M. Girdhar, T. Malik, and A. Mohan, “Systemic analysis of glyphosate impact on environment and human health,” ACS omega, vol. 9, no. 6, pp. 6165–6183, 2024.
+[4] Z. Mazouz, Z. A. Touchente, H. Laradi, N. Fourati, N. Yaakoubi, R. Touzani, M. M. Chehimi, R. Kalfat, A. Othmane, and C. Zerrouki, “Design of novel electrochemical sensors for the selective detection of glyphosate,” in Proceedings, vol. 1, no. 4. MDPI, 2017, p. 483.
+[5] B. V. Lopes, G. K. Maron, M. G. Masteghin, R. D. C. Balboni, S. R. P. Silva, and N. L. V. Carreno, “Direct-detection of glyphosate in drinking water via a scalable and low-cost laser-induced graphene sensor,” Analytical Methods, 2025.
+[6] L. Fernandes Loguercio, A. Thesing, B. da Silveira Noremberg, B. Vasconcellos Lopes, G. Kurz Maron, G. Machado, M. A. Pope, and N. Lenin Villarreal Carreno, “Direct laser writing of poly (furfuryl alcohol)/graphene oxide electrodes for electrochemical determination of ascorbic acid,” ChemElectroChem, vol. 9, no. 17, p. e202200334, 2022.
+[7] M. Saleh, Z. Wang, J. C. Batchelor, and A. J. Casson, “A portable electrochemical measurement platform for wearable-flexible sweat sensors,” in 2023 IEEE Sensors Applications Symposium (SAS). IEEE, 2023, pp. 1–6.
+[8] J. Lin, Z. Peng, Y. Liu, F. Ruiz-Zepeda, R. Ye, E. L. Samuel, M. J. Yacaman, B. I. Yakobson, and J. M. Tour, “Laser-induced porous graphene films from commercial polymers,” Nature commu- nications, vol. 5, no. 1, p. 5714, 2014.
+[9] J.Aira,T.Olivares,andF.M.Delicado,“Spectrogly:Alow-costiot- based ecosystem for the detection of glyphosate residues in waters,” IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–10, 2022.
+[10] S. C.-H. Lee and P. J. Burke, “Nanostat: An open source, fully wireless potentiostat,” Electrochimica Acta, vol. 422, p. 140481, 2022. [Online]. Available: https://www.sciencedirect.com/science/ article/pii/S0013468622005618
+[11] I. Anshori, I. F. Ramadhan, E. Ariasena, R. Siburian, J. Affi, M. Handayani, H. Yunkins, T. Kuji, T. L. E. R. Mengko, and S. Harimurti, “Espotensio: A low-cost and portable potentiostat with multi-channel and multi-analysis electrochemical measurements,” IEEE Access, vol. 10, pp. 112 578–112 593, 2022.
+[12] G. Repository, “Portable potentiostat platform for electrochemical analysis,” https://github.com/bettyrosa/ Portable- Potentiostat- Platform- for- Electrochemical- Analysis,
+2025, accessed: Jan. 12, 2025.
+[13] G. Moro, S. Khaliha, A. Pintus, S. Mantovani, M. Feltracco, A. Gambaro, T. D. Marforio, M. Calvaresi, V. Palermo, M. Melucci et al., “Amino acid modified graphene oxide for the simultaneous capture and electrochemical detection of glyphosate,” Materials Today Chemistry, vol. 36, p. 101936, 2024.
